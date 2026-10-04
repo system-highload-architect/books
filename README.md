@@ -2,7 +2,7 @@
 <table>
   <thead><tr><th>Книга</th><th>Автор</th><th>Позиция</th><th>Страниц</th><th>Прочитано</th><th>Порядок</th></tr></thead>
   <tbody>
-    <tr><td>И в трещинах зеркальный круг</td><td>Агата Кристи</td><td align="right">62</td><td align="right">256</td><td align="center">❌</td><td align="right">13</td></tr>
+    <tr><td>И в трещинах зеркальный круг</td><td>Агата Кристи</td><td align="right">105</td><td align="right">256</td><td align="center">❌</td><td align="right">13</td></tr>
     <tr><td>Карибская тайна</td><td>Агата Кристи</td><td align="right">0</td><td align="right">256</td><td align="center">❌</td><td align="right">14</td></tr>
     <tr><td>Отель "Бертрам"</td><td>Агата Кристи</td><td align="right">0</td><td align="right">256</td><td align="center">❌</td><td align="right">15</td></tr>
     <tr><td>Немезида</td><td>Агата Кристи</td><td align="right">0</td><td align="right">256</td><td align="center">❌</td><td align="right">17</td></tr>
