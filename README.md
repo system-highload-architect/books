@@ -249,7 +249,7 @@
     <tr><td>Волшебная гора</td><td>Томас Манн</td><td align="right">0</td><td align="right">816</td><td align="center">❌</td><td align="right">278</td></tr>
     <tr><td>Игра в бисер. Путешествие к земле Востока. Степной волк</td><td>Герман Гессе</td><td align="right">0</td><td align="right">720</td><td align="center">❌</td><td align="right">279</td></tr>
     <tr><td>Старик и море. Зелёные холмы Африки. Снега Килиманджаро. Иметь и не иметь</td><td>Эрнест Хемингуэй</td><td align="right">0</td><td align="right">560</td><td align="center">❌</td><td align="right">280</td></tr>
-    <tr><td>Зима тревоги нашей. Заблудившийся автобус. Квартал Тортилья-Флэт</td><td>Джон Стейнбек</td><td align="right">0</td><td align="right">720</td><td align="center">❌</td><td align="right">281</td></tr>
+    <tr><td>О мышах и людях. Жемчужина. Квартал Тортилья-Флэт. Консервный Ряд </td><td>Джон Стейнбек</td><td align="right">0</td><td align="right">512</td><td align="center">❌</td><td align="right">281</td></tr>
     <tr><td>Три товарища. Возлюби ближнего своего</td><td>Эрих Мария Ремарк</td><td align="right">0</td><td align="right">800</td><td align="center">❌</td><td align="right">282</td></tr>
     <tr><td>По ком звонит колокол. Пятая колона</td><td>Эрнест Хемингуэй</td><td align="right">0</td><td align="right">704</td><td align="center">❌</td><td align="right">283</td></tr>
     <tr><td>Триумфальная арка. Ночь в Лиссабоне</td><td>Эрих Мария Ремарк</td><td align="right">0</td><td align="right">720</td><td align="center">❌</td><td align="right">284</td></tr>
